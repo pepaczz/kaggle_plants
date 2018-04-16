@@ -24,12 +24,12 @@ from helper_functions import *  # probably not nice - use namespace here!
 import constants
 
 # version identifier
-ver_id = 'v20180415d'
+ver_id = 'v20180416a'
 
 conv_depths=[32,32,64,64]
 dropout_probs=[0.5,0.5,0.5,0.5]
 batch_size = 64 # in each iteration, we consider 32 training examples at once
-num_epochs = 200 # we iterate 200 times over the entire training set
+num_epochs = 500 # we iterate 200 times over the entire training set
 hidden_size = 512 # the FC layer will have 512 neurons
 strides=2
 

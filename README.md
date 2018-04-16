@@ -9,7 +9,7 @@ Please refer to this notebook for results and visualizations:
 
  - [dimensionality reduction results and visualizations](https://github.com/pepaczz/kaggle_plants/blob/master/codes/plants_dimension_reduce_20180405b.ipynb)
  
-![t_sne](hhttps://github.com/pepaczz/kaggle_plants/blob/master/saved_objects/images/t_sne.png)
+![t_sne](https://github.com/pepaczz/kaggle_plants/blob/master/saved_objects/images/t_sne.png)
 
 ### 2. data classification using convolutional neural network (CNN)
 

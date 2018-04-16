@@ -1,7 +1,7 @@
 # Plant Seedlings Classification
 ## Kaggle comptition to analyse and classify image data
 
-This repository contains several scripts and notebooks. There two mian goals:
+This repository contains several scripts and notebooks related to the [Kaggle competition](https://www.kaggle.com/c/plant-seedlings-classification). There two mian goals of these scripts:
 
 ### 1. dimensionality reduction using PCA and t-SNE and data visualization
 
